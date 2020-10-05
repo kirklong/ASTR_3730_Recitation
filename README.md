@@ -7,7 +7,7 @@ Download all the files by clicking the big green button, or for those who are co
 
 However you do it, make sure you download all the files and that you preserve the directory structure wherever you put them. You can also download just the individual files for a given week from that folder, or (if going the command line route) you can just run `git pull` in the directory you originally cloned this repository into to get the most up-to-date version.
 
-**Third lab instructions**
+**Third lab instructions:**
 
 Make sure you've installed the [`py_mesa`](https://github.com/wmwolf/py_mesa_reader) module, then download the files from the `MESALab3` folder. This is easy if you've already cloned the repository -- just running `git pull` should immediately get you up to date with all of the latest files here! Ask early and often if you have questions about any part of this.
 

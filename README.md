@@ -9,7 +9,7 @@ However you do it, make sure you download all the files and that you preserve th
 
 **Third lab instructions:**
 
-Make sure you've installed the [`py_mesa`](https://github.com/wmwolf/py_mesa_reader) module, then download the files from the `MESALab3` folder. This is easy if you've already cloned the repository -- just running `git pull` should immediately get you up to date with all of the latest files here! Ask early and often if you have questions about any part of this. If you're on Windows and run into difficulty installing the module I've posted a video walkthrough of me installing it on my Windows side you can find on the Lab 3 page on Canvas. 
+Make sure you've installed the [`py_mesa`](https://github.com/wmwolf/py_mesa_reader) module, then download the files from the `MESALab3` folder. This is easy if you've already cloned the repository -- just running `git pull` should immediately get you up to date with all of the latest files here! Ask early and often if you have questions about any part of this. ***If you're on Windows and run into problems installing the module / getting the module to work right I've posted a video walkthrough of me installing it on my Windows side you can find on the Lab 3 page on Canvas.*** 
 
 **1st (review) week instructions:**
 

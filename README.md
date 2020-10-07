@@ -5,7 +5,7 @@ Download all the files by clicking the big green button, or for those who are co
 
 `git clone https://github.com/kirklong/ASTR_3730_Recitation.git`
 
-However you do it, make sure you download all the files and that you preserve the directory structure wherever you put them. You can also download just the individual files for a given week from that folder, or (if going the command line route) you can just run `git pull` in the directory you originally cloned this repository into to get the most up-to-date version.
+However you do it, make sure you download all the files and that you preserve the directory structure wherever you put them. You can also download just the individual files for a given week from that folder, or (if going the command line route) you can just run `git pull` in the directory you originally cloned this repository into to get the most up-to-date version. **There's now a tutorial [video](https://cuboulder.zoom.us/rec/share/pgCND_RvvELSJd5B5f2momu-tLwA4GD4gMXmv01BGdeK-IABBt0nbkYOfEewJK0L._W5NbA9eI5p9waee?startTime=1602093276000) that shows you how to do this!** If you're interested in further learning about how to use your terminal (it's a good skill to have!) here's a nice [tutorial](https://mse150s18.bitbucket.io/shell/) I followed when I first converted to Linux last year. It's also good to keep a reference of common commands handy like [this one](http://swcarpentry.github.io/shell-novice/reference/).
 
 **Third lab instructions:**
 
